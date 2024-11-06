@@ -1,0 +1,8 @@
+{
+    "name": "prachiitestorg",
+    "description": "nodejs init CI starter workflow",
+    "iconName": "indicator-svgrepo-com",
+    "categories": [
+        "NPM config"
+    ]
+}
